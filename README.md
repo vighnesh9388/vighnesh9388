@@ -132,15 +132,15 @@
 <hr>
 <p>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh9388&show_icons=true&locale=en"
     alt="vighnesh9388"
   />
 </p>
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh9388&"
     alt="vighnesh9388"
   />
-</p>
+</p> -->

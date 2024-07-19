@@ -130,9 +130,9 @@
   </a>
 </p>
 <hr>
-<p>
+<p align="center" width="100%">
   <img
-    align="center"
+    align="center" width = "33%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh9388&show_icons=true&locale=en"
     alt="vighnesh9388"
   />

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vighnesh </h1>
 
 <p align="left"></p>
-
+<!--
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -129,6 +129,7 @@
     />
   </a>
 </p>
+-->
 <hr>
 <p align="center">
   <img

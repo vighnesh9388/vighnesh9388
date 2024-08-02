@@ -139,7 +139,7 @@
 </p>
 <p align="center">
 <img
-    align="center" width = "66%"
+    align="center" width = "90%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh9388&theme=transparent&hide_border=true&bg_color=&background=00000000"
     alt="vighnesh9388"
 />

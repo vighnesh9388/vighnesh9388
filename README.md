@@ -133,14 +133,14 @@
 <p align="center">
   <img
     align="center" width = "66%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh9388&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh9388&theme=dark"
     alt="vighnesh9388"
   />
 </p>
 <p align="center">
   <img
     align="center" width = "33%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh9388&show_icons=true&locale=en&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh9388&show_icons=true&locale=en&theme=dark"
     alt="vighnesh9388"
   />
 </p>

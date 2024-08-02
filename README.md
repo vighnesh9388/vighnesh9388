@@ -136,27 +136,26 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh9388&show_icons=true&locale=en&theme=merko&hide_border=true&bg_color=00000000"
     alt="vighnesh9388"
   />
-</p>
-<p align="center">
-<img
-    align="center" width = "90%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh9388&theme=transparent&hide_border=true&bg_color=&background=00000000"
-    alt="vighnesh9388"
-/>
-</p> 
-<p align="center">
-  <img
-    align="center" width = "66%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vighnesh9388&theme=transparent&utcOffset=5.30&hide_border=true&background-color=00000000"
-    alt="vighnesh9388"
-  />
-</p> 
-<p align="center">
+  <br>
   <img
     align="center" width = "66%"
     src="https://github-readme-streak-stats.herokuapp.com?user=vighnesh9388&theme=merko&hide_border=true&background=FFFFFF00"
     alt="vighnesh9388"
   />
 </p>
+<!--
+<p align="center">
+<img
+    align="center" width = "90%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh9388&theme=transparent&hide_border=true&bg_color=&background=00000000"
+    alt="vighnesh9388"
+/>
+  <img
+    align="center" width = "66%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vighnesh9388&theme=transparent&utcOffset=5.30&hide_border=true&background-color=00000000"
+    alt="vighnesh9388"
+  />
+</p>
+-->
 
 

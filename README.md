@@ -143,7 +143,7 @@
     alt="vighnesh9388"
   />
 </p>
-<!--
+
 <p align="center">
 <img
     align="center" width = "90%"
@@ -156,6 +156,5 @@
     alt="vighnesh9388"
   />
 </p>
--->
 
 
